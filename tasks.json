@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Assignment submission",
+        "done": true,
+        "tag": "Python",
+        "due_date": "2026-08-02"
+    },
+    {
+        "title": "Data analytics",
+        "done": false,
+        "tag": "Revision",
+        "due_date": "2026-9-12"
+    },
+    {
+        "title": "Artificial intelligence",
+        "done": false,
+        "tag": "Revision",
+        "due_date": "2026-9-13"
+    }
+]
