@@ -155,7 +155,7 @@ def main():
             delete_task(tasks)
 
         elif choice == "5":
-            print("\nThank you for using Task Manager. Goodbye! 👋")
+            print("\nThank you for using Task Manager. Goodbye!! 👋")
             break
 
         else:
